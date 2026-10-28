@@ -1,0 +1,16 @@
+synthetic_label,response_id,is_genuine,preferred_ad_id,clarity_1_5,trustworthiness_1_5,appeal_1_5,consideration_1_5,why_selected,age_18_30,valid
+SYNTHETIC — NOT A REAL PARTICIPANT,TEST01,FALSE,A01,4,5,4,3,Synthetic placeholder for pipeline testing only,SYNTHETIC,TRUE
+SYNTHETIC — NOT A REAL PARTICIPANT,TEST02,FALSE,A02,5,3,5,4,Synthetic placeholder for pipeline testing only,SYNTHETIC,TRUE
+SYNTHETIC — NOT A REAL PARTICIPANT,TEST03,FALSE,A03,3,4,3,5,Synthetic placeholder for pipeline testing only,SYNTHETIC,TRUE
+SYNTHETIC — NOT A REAL PARTICIPANT,TEST04,FALSE,A04,4,5,4,2,Synthetic placeholder for pipeline testing only,SYNTHETIC,TRUE
+SYNTHETIC — NOT A REAL PARTICIPANT,TEST05,FALSE,A05,5,3,5,3,Synthetic placeholder for pipeline testing only,SYNTHETIC,TRUE
+SYNTHETIC — NOT A REAL PARTICIPANT,TEST06,FALSE,B01,3,4,3,4,Synthetic placeholder for pipeline testing only,SYNTHETIC,TRUE
+SYNTHETIC — NOT A REAL PARTICIPANT,TEST07,FALSE,B02,4,5,4,5,Synthetic placeholder for pipeline testing only,SYNTHETIC,TRUE
+SYNTHETIC — NOT A REAL PARTICIPANT,TEST08,FALSE,B03,5,3,5,2,Synthetic placeholder for pipeline testing only,SYNTHETIC,TRUE
+SYNTHETIC — NOT A REAL PARTICIPANT,TEST09,FALSE,B04,3,4,3,3,Synthetic placeholder for pipeline testing only,SYNTHETIC,TRUE
+SYNTHETIC — NOT A REAL PARTICIPANT,TEST10,FALSE,B05,4,5,4,4,Synthetic placeholder for pipeline testing only,SYNTHETIC,TRUE
+SYNTHETIC — NOT A REAL PARTICIPANT,TEST11,FALSE,C01,5,3,5,5,Synthetic placeholder for pipeline testing only,SYNTHETIC,TRUE
+SYNTHETIC — NOT A REAL PARTICIPANT,TEST12,FALSE,C02,3,4,3,2,Synthetic placeholder for pipeline testing only,SYNTHETIC,TRUE
+SYNTHETIC — NOT A REAL PARTICIPANT,TEST13,FALSE,C03,4,5,4,3,Synthetic placeholder for pipeline testing only,SYNTHETIC,TRUE
+SYNTHETIC — NOT A REAL PARTICIPANT,TEST14,FALSE,C04,5,3,5,4,Synthetic placeholder for pipeline testing only,SYNTHETIC,TRUE
+SYNTHETIC — NOT A REAL PARTICIPANT,TEST15,FALSE,C05,3,4,3,5,Synthetic placeholder for pipeline testing only,SYNTHETIC,TRUE
